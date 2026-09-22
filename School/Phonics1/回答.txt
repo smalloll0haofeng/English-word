@@ -1,0 +1,8 @@
+bat
+pat
+big
+pig
+bus
+pin
+bed
+pot
